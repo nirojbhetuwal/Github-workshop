@@ -12,6 +12,7 @@ text-align: center;
     background-color: chartreuse;
     margin: 40px;
     padding-right: 60px;
+    display: inline-block;
     
 
 }

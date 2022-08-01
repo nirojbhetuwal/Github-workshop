@@ -1,0 +1,24 @@
+body{
+background-color: aquamarine;
+cursor: pointer;
+
+text-align: center;
+
+}
+
+.table{
+   table-layout: inherit; 
+    text-align: center;
+    background-color: chartreuse;
+    margin: 40px;
+    padding-right: 60px;
+    
+
+}
+
+
+
+
+
+
+
